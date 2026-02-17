@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/pass/:id", "destination": "/api/pass?id=:id" }
-  ]
-}
